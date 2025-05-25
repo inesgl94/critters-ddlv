@@ -1,0 +1,126 @@
+/* styles.css */
+body {
+  font-family: "Josefin Sans", sans-serif;
+  margin: 0;
+  padding-right: 0;
+  background-image: url("beautiful-pastel-color-gradient-background-free-vector.jpg");
+  background-size: cover; /* Ensures the image covers the entire screen */
+  background-position: center; /* Centers the image */
+  background-repeat: repeat-y; /* Repeats the image vertically */
+  background-attachment: fixed; /* Fixes the background image */
+  height: 100vh; /* Full viewport height */
+  width: 100vw; /* Full viewport width */
+}
+
+h1,
+h3,
+h4,
+p,
+h5 {
+  text-align: center;
+  color: #333;
+}
+h4 {
+  font-size: 1.2em;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-color: rgba(255, 183, 251, 0.4);
+  padding: 10px;
+  color: #730f7c;
+}
+h3 {
+  font-size: 1.8em;
+}
+.logo-container {
+  text-align: center;
+  margin: 0;
+}
+.logo {
+  display: inline-flex;
+  margin: 0 auto;
+  width: 20px;
+  height: auto;
+  vertical-align: middle;
+}
+
+#inicio h1,
+h2 {
+  text-align: center;
+  color: #333;
+  font-size: 2 em;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  background-color: rgba(239, 227, 250, 0.4); /* Red with 50% opacity */
+  padding: 10px;
+  color: #730f7c;
+}
+
+#inicio h2 {
+  font-size: 1.5em;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 15px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.gallery div {
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background-color: rgba(239, 227, 250, 0.6);
+}
+
+.gallery img {
+  width: 70%;
+  align-items: center;
+  margin: 0 auto;
+  border-radius: 8px;
+  height: auto;
+  display: block;
+  transition: transform 0.3s ease;
+}
+.gallery p {
+  text-align: center;
+  font-size: 14px;
+  margin: 5px 0;
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+}
+.nombre-animal {
+  text-align: center;
+  font-size: 20px;
+  margin: 5px 0;
+  color: #730f7c; /* Color del texto */
+}
+
+details {
+  margin-bottom: 10px;
+}
+summary {
+  display: inline;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: bold;
+  width: 100%;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+.inventario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
