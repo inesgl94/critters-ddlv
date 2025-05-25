@@ -1,0 +1,1212 @@
+[
+  {
+    "nombre": "Capibara Negra y Blanca",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "12:00-00:00"
+      ],
+      "sábado": [
+        "12:00-00:00"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Capibara Rayada Roja y Blanca",
+    "apariciones": {
+      "sábado": [
+        "12:00-18:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Capibara Manchada Gris",
+    "apariciones": {
+      "lunes": [
+        "12:00-00:00"
+      ],
+      "martes": [
+        "12:00-00:00"
+      ],
+      "miércoles": [
+        "12:00-00:00"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Capibara dibujo animado",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Capibara Rayada Azul",
+    "apariciones": {
+      "lunes": [
+        "00:00-12:00"
+      ],
+      "martes": [
+        "00:00-12:00"
+      ],
+      "miércoles": [
+        "00:00-12:00"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Capibara Clásica",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Búho Oscuro",
+    "apariciones": {
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Búho Marrón",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Búho Púrpura",
+    "apariciones": {
+      "lunes": [
+        "00:00-9:00"
+      ],
+      "martes": [
+        "00:00-9:00"
+      ],
+      "miércoles": [
+        "00:00-9:00"
+      ],
+      "jueves": [
+        "00:00-9:00"
+      ],
+      "viernes": [
+        "00:00-9:00"
+      ],
+      "sábado": [
+        "00:00-9:00"
+      ],
+      "domingo": [
+        "00:00-9:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Búho Claro",
+    "apariciones": {
+      "lunes": [
+        "15:00-20:00"
+      ],
+      "martes": [
+        "15:00-20:00"
+      ],
+      "miércoles": [
+        "15:00-20:00"
+      ],
+      "jueves": [
+        "15:00-20:00"
+      ],
+      "viernes": [
+        "15:00-20:00"
+      ],
+      "sábado": [
+        "15:00-20:00"
+      ],
+      "domingo": [
+        "15:00-20:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Colibrí Turquesa",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Colibrí Rojo",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Colibrí Orquídea",
+    "apariciones": {
+      "viernes": [
+        "9:00-15:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Colibrí Dorado",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Colibrí Esmeralda",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Ardilla Blanca",
+    "apariciones": {
+      "domingo": [
+        "10:00-16:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Ardilla Roja",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Ardilla Gris",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Ardilla Clásica",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Ardilla Negra",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Conejo Blanco",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Conejo Clásico",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Conejo Calico",
+    "apariciones": {
+      "jueves": [
+        "8:00-14:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Conejo Marrón",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Conejo Negro",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Pegaso Amarillo",
+    "apariciones": {
+      "martes": [
+        "18:00-00:00"
+      ],
+      "miércoles": [
+        "18:00-00:00"
+      ],
+      "jueves": [
+        "18:00-00:00"
+      ],
+      "viernes": [
+        "18:00-00:00"
+      ],
+      "sábado": [
+        "18:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Pegaso Azul",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Pegaso Rosa",
+    "apariciones": {
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Pegaso Durazno",
+    "apariciones": {
+      "lunes": [
+        "6:00-14:00"
+      ],
+      "martes": [
+        "6:00-14:00"
+      ],
+      "miércoles": [
+        "6:00-14:00"
+      ],
+      "jueves": [
+        "6:00-14:00"
+      ],
+      "viernes": [
+        "6:00-14:00"
+      ],
+      "sábado": [
+        "6:00-14:00"
+      ],
+      "domingo": [
+        "6:00-14:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cobra dibujo animado",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Cobra Rayada Azul y Roja",
+    "apariciones": {
+      "lunes": [
+        "12:00-00:00"
+      ],
+      "martes": [
+        "12:00-00:00"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "12:00-00:00"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Cobra Clásica",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Cobra Manchada Rosa",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-12:00"
+      ],
+      "jueves": [
+        "00:00-12:00"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cobra Rayada Amarilla y Púrpura",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "12:00-00:00"
+      ],
+      "jueves": [
+        "12:00-00:00"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cobra Rayada Verde y Blanca",
+    "apariciones": {
+      "jueves": [
+        "6:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cocodrilo Blanco",
+    "apariciones": {
+      "domingo": [
+        "18:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cocodrilo Rojo",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cocodrilo Rosa",
+    "apariciones": {
+      "sábado": [
+        "6:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cocodrilo Dorado",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cocodrilo Clásico",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cocodrilo Azul",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Zorro Blanco",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Zorro Rojo",
+    "apariciones": {
+      "sábado": [
+        "16:00-22:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Zorro Clásico",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Zorro Azul",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Zorro Negro",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cuervo Blanco",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cuervo Rojo",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cuervo Clásico",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cuervo Marrón",
+    "apariciones": {
+      "martes": [
+        "18:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Cuervo Azul",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mapache Blanco",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mapache Rojo",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mapache Clásico",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mapache Azul",
+    "apariciones": {
+      "miércoles": [
+        "16:00-22:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mapache Negro",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Dragón Bebé Azul",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Dragón Bebé Verde",
+    "apariciones": {
+      "lunes": [
+        "10:00-18:00"
+      ],
+      "martes": [
+        "10:00-18:00"
+      ],
+      "miércoles": [
+        "10:00-18:00"
+      ],
+      "jueves": [
+        "10:00-18:00"
+      ],
+      "domingo": [
+        "10:00-18:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Dragón Bebé Púrpura",
+    "apariciones": {
+      "lunes": [
+        "00:00-12:00"
+      ],
+      "martes": [
+        "00:00-12:00"
+      ],
+      "miércoles": [
+        "00:00-12:00"
+      ],
+      "jueves": [
+        "00:00-12:00"
+      ],
+      "viernes": [
+        "00:00-12:00"
+      ],
+      "sábado": [
+        "00:00-12:00"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Dragón Bebé Rojo",
+    "apariciones": {
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Tortuga Marina Blanca",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Tortuga Marina Púrpura",
+    "apariciones": {
+      "martes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Tortuga Marina Clásica",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Tortuga Marina Marrón",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-12:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Tortuga Marina Negra",
+    "apariciones": {
+      "lunes": [
+        "10:00-16:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mono Negro y Gris",
+    "apariciones": {
+      "martes": [
+        "18:00-00:00"
+      ]
+    }
+  },
+  {
+    "nombre": "Mono Beige",
+    "apariciones": {
+      "lunes": [
+        "12:00-00:00"
+      ],
+      "miércoles": [
+        "12:00-00:00"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "12:00-00:00"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Mono Rojo y Beige",
+    "apariciones": {
+      "lunes": [
+        "00:00-12:00"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-12:00"
+      ],
+      "viernes": [
+        "00:00-12:00"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Mono dibujo animado",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Mono Clásico",
+    "apariciones": {
+      "lunes": [
+        "00:00-23:59"
+      ],
+      "martes": [
+        "00:00-23:59"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "00:00-23:59"
+      ],
+      "viernes": [
+        "00:00-23:59"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "00:00-23:59"
+      ]
+    }
+  },
+  {
+    "nombre": "Mono Negro y Marrón",
+    "apariciones": {
+      "martes": [
+        "12:00-00:00"
+      ],
+      "miércoles": [
+        "00:00-23:59"
+      ],
+      "jueves": [
+        "12:00-00:00"
+      ],
+      "sábado": [
+        "00:00-23:59"
+      ],
+      "domingo": [
+        "12:00-00:00"
+      ]
+    }
+  }
+]
